@@ -1,0 +1,9 @@
+.result {
+    border-top: 2px solid #ddd;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.result em {
+    font-weight: bold;
+}
